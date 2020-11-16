@@ -15,15 +15,16 @@ import history from '../utils/history';
 import jera from '../images/jera.png'
 import firebase from "firebase";
 
+// please add your own config here
 var firebaseConfig = {
-  apiKey: "AIzaSyBItk5Mol5A7u-KKIC6PpxilTFF-i478mo",
-  authDomain: "yera-e5fc7.firebaseapp.com",
-  databaseURL: "https://yera-e5fc7.firebaseio.com",
-  projectId: "yera-e5fc7",
-  storageBucket: "yera-e5fc7.appspot.com",
-  messagingSenderId: "787599846840",
-  appId: "1:787599846840:web:2676d7cab9e17d03c8734d",
-  measurementId: "G-SR1VQ99L70",
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 
 // Initialize Firebase
