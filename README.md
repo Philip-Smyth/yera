@@ -1,5 +1,7 @@
 ## Yera: A fitbit dashboard to track heart-rate and activity levels
 
+# Current Status: Prototyping-Early proof of concept development, currently no testing
+
 A small side project to work with the fitbit api and firebase. 
 
 The overarching plan has been to create a dashboard that will pull down a users fitbit data each day and then show this in the form of a graph. This will then allow us to analyze the data. If there are cases of a heartrate spike with no correlated activity levels, then we can flag this period of time as a potential risk. This is to allow those that potentially suffer with anxiety, epilepsy or other conditions to better log and track these events.
